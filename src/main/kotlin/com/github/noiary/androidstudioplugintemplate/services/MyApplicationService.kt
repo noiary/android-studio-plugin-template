@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.noiary.androidstudioplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.noiary.androidstudioplugintemplate.MyBundle
 
 class MyApplicationService {
 
